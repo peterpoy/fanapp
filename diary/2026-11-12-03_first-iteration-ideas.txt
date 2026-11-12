@@ -13,3 +13,4 @@ Now that I have the fastest local version to deploy possible. I have a few addit
 3.  I feel like most people won't care about the other farm teams, the most important feature may be the
     game distances and costs for affordability of attendance.
 4.  I think I'll really need that Claude subscription...
+5.  An early feature would require selecting/deselecting calendars to include on the main one.
