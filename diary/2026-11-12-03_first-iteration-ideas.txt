@@ -1,0 +1,16 @@
+Thursday, November 12th 2026
+====================================================================================================
+First Iteration ideas
+----------------------------------------------------------------------------------------------------
+Now that I have the fastest local version to deploy possible. I have a few additional ideas.
+
+1. Start hosting on the web
+    -> may need a real domain here
+2. Switch away from using Google Calendar because it's hard to integrate with
+    -> Settings like Calendar name can only be managed on Google Calendar
+    -> UI seems inflexible as well
+    -> why did I need to accept something from Google to use it?
+3.  I feel like most people won't care about the other farm teams, the most important feature may be the
+    game distances and costs for affordability of attendance.
+4.  I think I'll really need that Claude subscription...
+5.  An early feature would require selecting/deselecting calendars to include on the main one.
