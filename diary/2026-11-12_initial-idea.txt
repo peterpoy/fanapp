@@ -1,0 +1,30 @@
+Thursday, November 12th 2026
+====================================================================================================
+imafan initial idea
+----------------------------------------------------------------------------------------------------
+The Philadelphia flyers have once again become my obsession. I want to follow all their teams and all their prospects, and I want to know when they're playing close to me so that I can try to watch them play. There's a lot to unpact with this type of fandom, but I can start wtih some basic functionalities which I'll describe below:
+
+1. Calendar including all of the Philadelphia Flyers' games, along with Lehigh Valley Phantoms games, Reading Royals Games.
+2. Explanation as to why those three teams are relevant to the Philadelphia Flyers
+3. Prospect tracker including all of the Flyers' drafted players
+4. Prospect calendars
+5. Prospect stats
+6. Results of the games synced to the calendar
+7. League standings of the three flyers' organizations and the prospects' teams
+8. Tickets to the games listed in the calendars
+9. Distances to the arenas that they play at
+10. make it generalized so it's easy to do this for any professional sports organization
+----------------------------------------------------------------------------------------------------
+V0.1
+----------------------------------------------------------------------------------------------------
+-> Requires Database of schedule
+-> requires service that reads the db
+-> Display the items onto a calendar component
+----------------------------------------------------------------------------------------------------
+Tech Stack
+----------------------------------------------------------------------------------------------------
+-> either select what you use at work or popular tech stacks
+	-> top companies don't care about which languages you know most of the time
+		-> ebay did, but it was for a backend engineer role, not front end
+	-> select what works best with the calendar component you want
+-> 
