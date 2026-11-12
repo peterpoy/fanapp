@@ -1,0 +1,1481 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NHL
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTART:20261106T000000Z
+DTEND:20261106T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c34a@google.com
+CREATED:20261112T171016Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jsrZJ/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jsrZM/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jsrZS/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss15/3Pvsr\n\n
+LAST-MODIFIED:20261112T171017Z
+LOCATION:Madison Square Garden
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ New York Rangers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33f4@google.com
+CREATED:20261112T171018Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jss5k/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jss5p/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jss5t/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss5C/3Pvsr\n\n
+LAST-MODIFIED:20261112T171018Z
+LOCATION:Centre Bell
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Montreal Canadiens
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270310T020000Z
+DTEND:20270310T040000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33fc@google.com
+CREATED:20261112T171030Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jsszr/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jsszw/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jsszC/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsszQ/3Pvsr\n\n
+LAST-MODIFIED:20261112T171030Z
+LOCATION:Ball Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Colorado Avalanche
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T003000Z
+DTEND:20261204T023000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33f6@google.com
+CREATED:20261112T171020Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM13/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jss7z/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jss7C/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss7Q/3Pvsr\n\n
+LAST-MODIFIED:20261112T171020Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 New York Islanders @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T000000Z
+DTEND:20261209T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33f7@google.com
+CREATED:20261112T171020Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jss8K/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jss8Q/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jss8W/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss99/3Pvsr\n\n
+LAST-MODIFIED:20261112T171020Z
+LOCATION:Canada Life Centre
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Winnipeg Jets
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T000000Z
+DTEND:20261115T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c34d@google.com
+CREATED:20261112T171034Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jss35/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jss38/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jss3d/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss3p/3Pvsr\n\n
+LAST-MODIFIED:20261112T171034Z
+LOCATION:Nationwide Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Columbus Blue Jackets
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270219T020000Z
+DTEND:20270219T040000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c35a@google.com
+CREATED:20261112T171028Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jsstj/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jsstn/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jsstt/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsstJ/3Pvsr\n\n
+LAST-MODIFIED:20261112T171028Z
+LOCATION:American Airlines Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Dallas Stars
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270105T030000Z
+DTEND:20270105T050000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33fb@google.com
+CREATED:20261112T171035Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssgY/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssh3/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssh8/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsshn/3Pvsr\n\n
+LAST-MODIFIED:20261112T171035Z
+LOCATION:Crypto.com Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Los Angeles Kings
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270307T203000Z
+DTEND:20270307T223000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c360@google.com
+CREATED:20261112T171029Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1r/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssyW/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssz3/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsszg/3Pvsr\n\n
+LAST-MODIFIED:20261112T171029Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 St. Louis Blues @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T000000Z
+DTEND:20270120T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c354@google.com
+CREATED:20261112T171035Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssm7/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssmc/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssml/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssmy/3Pvsr\n\n
+LAST-MODIFIED:20261112T171036Z
+LOCATION:Madison Square Garden
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ New York Rangers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270227T000000Z
+DTEND:20270227T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dc34cd1d6@google.com
+CREATED:20261112T171036Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssww/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jsswx/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jsswD/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsswR/3Pvsr\n\n
+LAST-MODIFIED:20261112T171036Z
+LOCATION:UBS Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ New York Islanders
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270330T230000Z
+DTEND:20270331T010000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c363@google.com
+CREATED:20261112T171038Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1K/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssGH/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssGP/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssGY/3Pvsr\n\n
+LAST-MODIFIED:20261112T171038Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Pittsburgh Penguins @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270116T000000Z
+DTEND:20270116T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c352@google.com
+CREATED:20261112T171024Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jsskY/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssl1/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssl5/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsslh/3Pvsr\n\n
+LAST-MODIFIED:20261112T171024Z
+LOCATION:Lenovo Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Carolina Hurricanes
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270228T000000Z
+DTEND:20270228T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c35e@google.com
+CREATED:20261112T171036Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1H/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssxd/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssxj/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssxw/3Pvsr\n\n
+LAST-MODIFIED:20261112T171037Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 San Jose Sharks @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33f2@google.com
+CREATED:20261112T171018Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMLZY/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jss4m/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jss4s/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss4F/3Pvsr\n\n
+LAST-MODIFIED:20261112T171018Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Buffalo Sabres @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33f3@google.com
+CREATED:20261112T171032Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jss4T/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jss4W/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jss51/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss5c/3Pvsr\n\n
+LAST-MODIFIED:20261112T171032Z
+LOCATION:Canadian Tire Centre
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Ottawa Senators
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270401T233000Z
+DTEND:20270402T013000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23fc@google.com
+CREATED:20261112T171032Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1w/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssHg/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssHl/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssHt/3Pvsr\n\n
+LAST-MODIFIED:20261112T171032Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Washington Capitals @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261220T180000Z
+DTEND:20261220T200000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23f4@google.com
+CREATED:20261112T171022Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jsscz/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jsscF/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jsscL/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsscX/3Pvsr\n\n
+LAST-MODIFIED:20261112T171022Z
+LOCATION:TD Garden
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Boston Bruins
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261101T210000Z
+DTEND:20261101T230000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23ee@google.com
+CREATED:20261112T171033Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1D/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jsrZc/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jsrZj/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsrZx/3Pvsr\n\n
+LAST-MODIFIED:20261112T171034Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Utah Mammoth @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270220T173000Z
+DTEND:20270220T193000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c35b@google.com
+CREATED:20261112T171028Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1m/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssv1/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssv6/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssvl/3Pvsr\n\n
+LAST-MODIFIED:20261112T171028Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 New York Rangers @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270408T233000Z
+DTEND:20270409T013000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23fd@google.com
+CREATED:20261112T171033Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssHF/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssHK/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssHR/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssJ1/3Pvsr\n\n
+LAST-MODIFIED:20261112T171033Z
+LOCATION:Nationwide Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Columbus Blue Jackets
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270117T000000Z
+DTEND:20270117T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c353@google.com
+CREATED:20261112T171035Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1G/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jsslC/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jsslG/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsslT/3Pvsr\n\n
+LAST-MODIFIED:20261112T171035Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Montreal Canadiens @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270405T180000Z
+DTEND:20270405T200000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d3401@google.com
+CREATED:20261112T171038Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jsrMt/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jsrMx/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jsrMD/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsrMR/3Pvsr\n\n
+LAST-MODIFIED:20261112T171039Z
+LOCATION:Lenovo Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Carolina Hurricanes
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270320T190000Z
+DTEND:20270320T210000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33fe@google.com
+CREATED:20261112T171031Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssDC/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssDK/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssDN/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssF3/3Pvsr\n\n
+LAST-MODIFIED:20261112T171031Z
+LOCATION:UBS Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ New York Islanders
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270325T223000Z
+DTEND:20270326T003000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23fa@google.com
+CREATED:20261112T171037Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssFJ/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssFM/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssFR/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssFY/3Pvsr\n\n
+LAST-MODIFIED:20261112T171037Z
+LOCATION:Benchmark International Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Tampa Bay Lightning
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270110T000000Z
+DTEND:20270110T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dc34cd1d1@google.com
+CREATED:20261112T171023Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssjb/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssjj/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssjp/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssjD/3Pvsr\n\n
+LAST-MODIFIED:20261112T171023Z
+LOCATION:Scotiabank Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Toronto Maple Leafs
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270225T000000Z
+DTEND:20270225T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c35d@google.com
+CREATED:20261112T171029Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1p/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssw2/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssw7/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsswk/3Pvsr\n\n
+LAST-MODIFIED:20261112T171029Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Buffalo Sabres @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270104T010000Z
+DTEND:20270104T030000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33fa@google.com
+CREATED:20261112T171033Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssg6/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssgk/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssgs/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssgF/3Pvsr\n\n
+LAST-MODIFIED:20261112T171033Z
+LOCATION:Honda Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Anaheim Ducks
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270323T230000Z
+DTEND:20270324T010000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33ff@google.com
+CREATED:20261112T171031Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssFg/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssFp/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssFs/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssFB/3Pvsr\n\n
+LAST-MODIFIED:20261112T171031Z
+LOCATION:Prudential Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ New Jersey Devils
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270404T000000Z
+DTEND:20270404T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d3400@google.com
+CREATED:20261112T171038Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jsrLT/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jsrM1/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jsrM4/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsrMh/3Pvsr\n\n
+LAST-MODIFIED:20261112T171038Z
+LOCATION:PPG Paints Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Pittsburgh Penguins
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270131T170000Z
+DTEND:20270131T190000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dc34cd1d3@google.com
+CREATED:20261112T171027Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssqR/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssqZ/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssr3/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssrh/3Pvsr\n\n
+LAST-MODIFIED:20261112T171027Z
+LOCATION:PPG Paints Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Pittsburgh Penguins
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270111T003000Z
+DTEND:20270111T023000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23f6@google.com
+CREATED:20261112T171024Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1b/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssjT/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssk1/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssk9/3Pvsr\n\n
+LAST-MODIFIED:20261112T171024Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Chicago Blackhawks @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T000000Z
+DTEND:20270122T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c355@google.com
+CREATED:20261112T171025Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1c/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssmR/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssmT/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssn6/3Pvsr\n\n
+LAST-MODIFIED:20261112T171025Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Nashville Predators @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T000000Z
+DTEND:20261109T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c34b@google.com
+CREATED:20261112T171017Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jss1j/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jss1q/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jss1w/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss1H/3Pvsr\n\n
+LAST-MODIFIED:20261112T171017Z
+LOCATION:Scotiabank Saddledome
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Calgary Flames
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270327T220000Z
+DTEND:20270328T000000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23fb@google.com
+CREATED:20261112T171037Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssG7/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssGc/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssGh/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssGr/3Pvsr\n\n
+LAST-MODIFIED:20261112T171038Z
+LOCATION:Amerant Bank Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Florida Panthers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T172500Z
+DTEND:20261112T174000Z
+DTSTAMP:20261112T171125Z
+UID:6af5f2f39f43490002974040@google.com
+CREATED:20261112T171039Z
+DESCRIPTION:You'll now have the most up-to-date game information from the F
+ lyers.\n\nIf dates\, times or details change\, these will automatically upd
+ ate in your calendar. \n\nWe hope you enjoy this service and welcome any fe
+ edback via our Support Center https://support.ecal.com \n------ \n\nThis se
+ rvice is powered by ECAL\, the world's leading & most trusted calendar comm
+ unications service.\n\nManage my ECAL\nhttps://ecal.ai/f/2y9sxn/3Pvsr\n\n
+LAST-MODIFIED:20261112T171039Z
+LOCATION:Proudly powered by ECAL
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Welcome to the Philadelphia Flyers calendar!
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H1M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T020000Z
+DTEND:20261112T040000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c34c@google.com
+CREATED:20261112T171017Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jss2w/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jss2z/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jss2D/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss2V/3Pvsr\n\n
+LAST-MODIFIED:20261112T171017Z
+LOCATION:Rogers Place
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Edmonton Oilers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270124T003000Z
+DTEND:20270124T023000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c356@google.com
+CREATED:20261112T171025Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1d/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssnn/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssnt/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssnS/3Pvsr\n\n
+LAST-MODIFIED:20261112T171025Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 New Jersey Devils @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T000000Z
+DTEND:20270127T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c357@google.com
+CREATED:20261112T171026Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1f/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jsspc/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jsspj/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsspw/3Pvsr\n\n
+LAST-MODIFIED:20261112T171026Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Florida Panthers @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261227T200000Z
+DTEND:20261227T220000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23f5@google.com
+CREATED:20261112T171016Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssdx/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssdC/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssdH/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssdQ/3Pvsr\n\n
+LAST-MODIFIED:20261112T171016Z
+LOCATION:United Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Chicago Blackhawks
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270204T003000Z
+DTEND:20270204T023000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dc34cd1d4@google.com
+CREATED:20261112T171027Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1k/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssrv/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssrB/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssrQ/3Pvsr\n\n
+LAST-MODIFIED:20261112T171027Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Tampa Bay Lightning @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270306T000000Z
+DTEND:20270306T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23f8@google.com
+CREATED:20261112T171029Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1q/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssyj/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssyp/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssyB/3Pvsr\n\n
+LAST-MODIFIED:20261112T171029Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Dallas Stars @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T000000Z
+DTEND:20261104T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dc34cd1cd@google.com
+CREATED:20261112T171034Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1F/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jsrQ1/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jsrQc/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsrQn/3Pvsr\n\n
+LAST-MODIFIED:20261112T171034Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Minnesota Wild @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dc34cd1ce@google.com
+CREATED:20261112T171019Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jss5M/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jss5R/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jss5V/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss62/3Pvsr\n\n
+LAST-MODIFIED:20261112T171019Z
+LOCATION:Capital One Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Washington Capitals
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270410T163000Z
+DTEND:20270410T183000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d3402@google.com
+CREATED:20261112T171032Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1x/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssJj/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssJn/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssJv/3Pvsr\n\n
+LAST-MODIFIED:20261112T171032Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Washington Capitals @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270113T010000Z
+DTEND:20270113T030000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23f7@google.com
+CREATED:20261112T171024Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jsskm/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jsskr/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jsskv/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsskM/3Pvsr\n\n
+LAST-MODIFIED:20261112T171024Z
+LOCATION:Bridgestone Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Nashville Predators
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261215T000000Z
+DTEND:20261215T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33f8@google.com
+CREATED:20261112T171021Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM15/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssb2/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssb7/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssbj/3Pvsr\n\n
+LAST-MODIFIED:20261112T171021Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Florida Panthers @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T000000Z
+DTEND:20270108T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dc34cd1d0@google.com
+CREATED:20261112T171023Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM19/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jsshG/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jsshM/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsshY/3Pvsr\n\n
+LAST-MODIFIED:20261112T171023Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Toronto Maple Leafs @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270216T010000Z
+DTEND:20270216T030000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dc34cd1d5@google.com
+CREATED:20261112T171036Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jsssK/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jsssQ/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jsssT/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsst5/3Pvsr\n\n
+LAST-MODIFIED:20261112T171036Z
+LOCATION:Enterprise Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ St. Louis Blues
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270303T000000Z
+DTEND:20270303T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c35f@google.com
+CREATED:20261112T171037Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1J/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssxL/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssxQ/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssy3/3Pvsr\n\n
+LAST-MODIFIED:20261112T171037Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Vegas Golden Knights @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261127T200000Z
+DTEND:20261127T220000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dc34cd1cf@google.com
+CREATED:20261112T171019Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMLZZ/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jss6c/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jss6f/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss6p/3Pvsr\n\n
+LAST-MODIFIED:20261112T171019Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Vancouver Canucks @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270129T003000Z
+DTEND:20270129T023000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c358@google.com
+CREATED:20261112T171026Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1g/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jsspQ/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jsspW/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssq6/3Pvsr\n\n
+LAST-MODIFIED:20261112T171026Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Los Angeles Kings @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270214T003000Z
+DTEND:20270214T023000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c359@google.com
+CREATED:20261112T171027Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1l/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jsss6/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jsssh/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsssw/3Pvsr\n\n
+LAST-MODIFIED:20261112T171027Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 New Jersey Devils @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T003000Z
+DTEND:20261116T023000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c34e@google.com
+CREATED:20261112T171018Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMLZX/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jss3K/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jss3R/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss43/3Pvsr\n\n
+LAST-MODIFIED:20261112T171018Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Edmonton Oilers @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T010000Z
+DTEND:20261206T030000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23f1@google.com
+CREATED:20261112T171034Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jss7Z/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jss87/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jss8c/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss8x/3Pvsr\n\n
+LAST-MODIFIED:20261112T171034Z
+LOCATION:Grand Casino Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Minnesota Wild
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261110T023000Z
+DTEND:20261110T043000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23ef@google.com
+CREATED:20261112T171017Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jss1Y/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jss24/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jss2c/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss2k/3Pvsr\n\n
+LAST-MODIFIED:20261112T171017Z
+LOCATION:Rogers Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Vancouver Canucks
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270318T230000Z
+DTEND:20270319T010000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33fd@google.com
+CREATED:20261112T171031Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1t/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssCT/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssD9/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssDm/3Pvsr\n\n
+LAST-MODIFIED:20261112T171031Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Boston Bruins @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261129T003000Z
+DTEND:20261129T023000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33f5@google.com
+CREATED:20261112T171019Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM11/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jss6z/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jss6D/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss6S/3Pvsr\n\n
+LAST-MODIFIED:20261112T171019Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 New York Islanders @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270222T190000Z
+DTEND:20270222T210000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c35c@google.com
+CREATED:20261112T171028Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1n/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssvC/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssvF/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssvP/3Pvsr\n\n
+LAST-MODIFIED:20261112T171028Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Montreal Canadiens @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270316T230000Z
+DTEND:20270317T010000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c362@google.com
+CREATED:20261112T171030Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1s/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssCj/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssCp/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssCB/3Pvsr\n\n
+LAST-MODIFIED:20261112T171030Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Detroit Red Wings @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261222T000000Z
+DTEND:20261222T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c350@google.com
+CREATED:20261112T171022Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM18/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssdb/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssdg/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssdp/3Pvsr\n\n
+LAST-MODIFIED:20261112T171022Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Columbus Blue Jackets @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T000000Z
+DTEND:20261219T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c34f@google.com
+CREATED:20261112T171021Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM17/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssc5/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssc9/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jsscm/3Pvsr\n\n
+LAST-MODIFIED:20261112T171021Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Detroit Red Wings @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270101T210000Z
+DTEND:20270101T230000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa8848aa0d33f9@google.com
+CREATED:20261112T171033Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssfw/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssfC/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssfG/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssfW/3Pvsr\n\n
+LAST-MODIFIED:20261112T171033Z
+LOCATION:SAP Center at San Jose
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ San Jose Sharks
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261212T000000Z
+DTEND:20261212T020000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23f2@google.com
+CREATED:20261112T171020Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM14/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jss9s/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jss9z/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss9M/3Pvsr\n\n
+LAST-MODIFIED:20261112T171020Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Calgary Flames @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T003000Z
+DTEND:20261217T023000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23f3@google.com
+CREATED:20261112T171021Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM16/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssbx/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssbC/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssbL/3Pvsr\n\n
+LAST-MODIFIED:20261112T171021Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 New York Rangers @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261230T024000Z
+DTEND:20261230T044000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c351@google.com
+CREATED:20261112T171023Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssf1/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssf5/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssf9/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssfm/3Pvsr\n\n
+LAST-MODIFIED:20261112T171023Z
+LOCATION:Climate Pledge Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Seattle Kraken
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270130T180000Z
+DTEND:20270130T200000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dc34cd1d2@google.com
+CREATED:20261112T171026Z
+DESCRIPTION:Tickets\nhttps://ecal.ai/f/2sMM1h/3Pvsr\n\nGet the Gear 🛍️\nht
+ tps://ecal.ai/f/2jssqn/3Pvsr\n\nLatest News 📰\nhttps://ecal.ai/f/2jssqv/3P
+ vsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssqJ/3Pvsr\n\n
+LAST-MODIFIED:20261112T171026Z
+LOCATION:Xfinity Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Winnipeg Jets @ Philadelphia Flyers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261201T003000Z
+DTEND:20261201T023000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23f0@google.com
+CREATED:20261112T171019Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jss72/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jss75/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jss79/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jss7k/3Pvsr\n\n
+LAST-MODIFIED:20261112T171020Z
+LOCATION:Scotiabank Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Toronto Maple Leafs
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270312T030000Z
+DTEND:20270312T050000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884cc929c361@google.com
+CREATED:20261112T171030Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssB2/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssB5/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssBb/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssBn/3Pvsr\n\n
+LAST-MODIFIED:20261112T171030Z
+LOCATION:T-Mobile Arena
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Vegas Golden Knights
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270313T220000Z
+DTEND:20270314T000000Z
+DTSTAMP:20261112T171125Z
+UID:6a591b2a54aa884dbf1c23f9@google.com
+CREATED:20261112T171037Z
+DESCRIPTION:Grab your Tickets Now 🎟️\nhttps://ecal.ai/f/2jssBD/3Pvsr\n\nGe
+ t the Gear 🛍️\nhttps://ecal.ai/f/2jssBL/3Pvsr\n\nLatest News 📰\nhttps://e
+ cal.ai/f/2jssBS/3Pvsr\n\nManage my ECAL\nhttps://ecal.ai/f/2jssC4/3Pvsr\n\n
+LAST-MODIFIED:20261112T171037Z
+LOCATION:Delta Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏒 Philadelphia Flyers @ Utah Mammoth
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H15M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

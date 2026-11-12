@@ -1,0 +1,670 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Reading Royals//royalshockey.com//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/11/13/pa-dutch-night
+DTSTAMP:20261112T171516Z
+SUMMARY:PA Dutch Night
+DTSTART;TZID=America/New_York:20261113T190000
+DTEND;TZID=America/New_York:20261113T220000
+DESCRIPTION:Trenton Ironhawks at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2026/11/13/pa-dutch-night
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/11/17/education-day
+DTSTAMP:20261112T171516Z
+SUMMARY:Education Day
+DTSTART;TZID=America/New_York:20261117T103000
+DTEND;TZID=America/New_York:20261117T133000
+DESCRIPTION:Adirondack Thunder at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2026/11/17/education-day
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/11/20/hometown-hoedown
+DTSTAMP:20261112T171516Z
+SUMMARY:Hometown Hoedown
+DTSTART;TZID=America/New_York:20261120T190000
+DTEND;TZID=America/New_York:20261120T220000
+DESCRIPTION:Kalamazoo Wings at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2026/11/20/hometown-hoedown
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/11/21/hockey-fights-cancer
+DTSTAMP:20261112T171516Z
+SUMMARY:Hockey Fights Cancer
+DTSTART;TZID=America/New_York:20261121T190000
+DTEND;TZID=America/New_York:20261121T220000
+DESCRIPTION:Trenton Ironhawks at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2026/11/21/hockey-fights-cance
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/11/22/worcester-railers
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Worcester Railers
+DTSTART;TZID=America/New_York:20261122T150500
+DTEND;TZID=America/New_York:20261122T180500
+DESCRIPTION:Reading Royals at Worcester Railers
+LOCATION:DCU Center\, Worcester\, Massachusetts
+URL;VALUE=URI:https://royalshockey.com/games/2026/11/22/worcester-railers
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/11/25/trenton-ironhawks
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Trenton Ironhawks
+DTSTART;TZID=America/New_York:20261125T190000
+DTEND;TZID=America/New_York:20261125T220000
+DESCRIPTION:Reading Royals at Trenton Ironhawks
+LOCATION:CURE Insurance Arena\, Trenton\, New Jersey
+URL;VALUE=URI:https://royalshockey.com/games/2026/11/25/trenton-ironhawks
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/11/28/community-cares-undie-saturda
+ y
+DTSTAMP:20261112T171516Z
+SUMMARY:Community Cares + Undie Saturday
+DTSTART;TZID=America/New_York:20261128T130000
+DTEND;TZID=America/New_York:20261128T160000
+DESCRIPTION:Trois-Rivières Lions at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2026/11/28/community-cares-und
+ ie-saturday
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/11/29/trenton-ironhawks
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Trenton Ironhawks
+DTSTART;TZID=America/New_York:20261129T150000
+DTEND;TZID=America/New_York:20261129T180000
+DESCRIPTION:Reading Royals at Trenton Ironhawks
+LOCATION:CURE Insurance Arena\, Trenton\, New Jersey
+URL;VALUE=URI:https://royalshockey.com/games/2026/11/29/trenton-ironhawks
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/04/adirondack-thunder
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Adirondack Thunder
+DTSTART;TZID=America/New_York:20261204T190000
+DTEND;TZID=America/New_York:20261204T220000
+DESCRIPTION:Reading Royals at Adirondack Thunder
+LOCATION:Harding Mazzotti Arena\, Glens Falls\, New York
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/04/adirondack-thunder
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/05/adirondack-thunder
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Adirondack Thunder
+DTSTART;TZID=America/New_York:20261205T190000
+DTEND;TZID=America/New_York:20261205T220000
+DESCRIPTION:Reading Royals at Adirondack Thunder
+LOCATION:Harding Mazzotti Arena\, Glens Falls\, New York
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/05/adirondack-thunder
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/06/worcester-railers
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Worcester Railers
+DTSTART;TZID=America/New_York:20261206T150500
+DTEND;TZID=America/New_York:20261206T180500
+DESCRIPTION:Reading Royals at Worcester Railers
+LOCATION:DCU Center\, Worcester\, Massachusetts
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/06/worcester-railers
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/09/wild-wednesdays
+DTSTAMP:20261112T171516Z
+SUMMARY:Wild Wednesdays
+DTSTART;TZID=America/New_York:20261209T190000
+DTEND;TZID=America/New_York:20261209T220000
+DESCRIPTION:Worcester Railers at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/09/wild-wednesdays
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/11/wizard-wonderland-christmas
+DTSTAMP:20261112T171516Z
+SUMMARY:Wizard Wonderland Christmas
+DTSTART;TZID=America/New_York:20261211T190000
+DTEND;TZID=America/New_York:20261211T220000
+DESCRIPTION:Worcester Railers at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/11/wizard-wonderland-c
+ hristmas
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/12/military-appreciation-night-t
+ eddy-bear-toss
+DTSTAMP:20261112T171516Z
+SUMMARY:Military Appreciation Night + Teddy Bear Toss
+DTSTART;TZID=America/New_York:20261212T190000
+DTEND;TZID=America/New_York:20261212T220000
+DESCRIPTION:Trois-Rivières Lions at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/12/military-appreciati
+ on-night-teddy-bear-toss
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/13/trenton-ironhawks
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Trenton Ironhawks
+DTSTART;TZID=America/New_York:20261213T150000
+DTEND;TZID=America/New_York:20261213T180000
+DESCRIPTION:Reading Royals at Trenton Ironhawks
+LOCATION:CURE Insurance Arena\, Trenton\, New Jersey
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/13/trenton-ironhawks
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/16/trenton-ironhawks
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Trenton Ironhawks
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T220000
+DESCRIPTION:Reading Royals at Trenton Ironhawks
+LOCATION:CURE Insurance Arena\, Trenton\, New Jersey
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/16/trenton-ironhawks
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/19/maine-mariners
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Maine Mariners
+DTSTART;TZID=America/New_York:20261219T180000
+DTEND;TZID=America/New_York:20261219T210000
+DESCRIPTION:Reading Royals at Maine Mariners
+LOCATION:Cross Insurance Arena\, Portland\, Maine
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/19/maine-mariners
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/20/maine-mariners
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Maine Mariners
+DTSTART;TZID=America/New_York:20261220T150000
+DTEND;TZID=America/New_York:20261220T180000
+DESCRIPTION:Reading Royals at Maine Mariners
+LOCATION:Cross Insurance Arena\, Portland\, Maine
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/20/maine-mariners
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/27/trois-rivieres-lions
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Trois-Rivières Lions
+DTSTART;TZID=America/Toronto:20261227T150000
+DTEND;TZID=America/Toronto:20261227T180000
+DESCRIPTION:Reading Royals at Trois-Rivières Lions
+LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/27/trois-rivieres-lion
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/28/trois-rivieres-lions
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Trois-Rivières Lions
+DTSTART;TZID=America/Toronto:20261228T190000
+DTEND;TZID=America/Toronto:20261228T220000
+DESCRIPTION:Reading Royals at Trois-Rivières Lions
+LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/28/trois-rivieres-lion
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/29/maine-mariners
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Maine Mariners
+DTSTART;TZID=America/New_York:20261229T183000
+DTEND;TZID=America/New_York:20261229T213000
+DESCRIPTION:Reading Royals at Maine Mariners
+LOCATION:Cross Insurance Arena\, Portland\, Maine
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/29/maine-mariners
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2026/12/31/new-years-eve-pajama-party
+DTSTAMP:20261112T171516Z
+SUMMARY:New Year's Eve Pajama Party
+DTSTART;TZID=America/New_York:20261231T150000
+DTEND;TZID=America/New_York:20261231T180000
+DESCRIPTION:Norfolk Admirals at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2026/12/31/new-years-eve-pajam
+ a-party
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/02/norfolk-admirals
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Norfolk Admirals
+DTSTART;TZID=America/New_York:20270102T190500
+DTEND;TZID=America/New_York:20270102T220500
+DESCRIPTION:Reading Royals at Norfolk Admirals
+LOCATION:Norfolk Scope\, Norfolk\, Virginia
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/02/norfolk-admirals
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/03/norfolk-admirals
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Norfolk Admirals
+DTSTART;TZID=America/New_York:20270103T150500
+DTEND;TZID=America/New_York:20270103T180500
+DESCRIPTION:Reading Royals at Norfolk Admirals
+LOCATION:Norfolk Scope\, Norfolk\, Virginia
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/03/norfolk-admirals
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/06/wild-wednesdays
+DTSTAMP:20261112T171516Z
+SUMMARY:Wild Wednesdays
+DTSTART;TZID=America/New_York:20270106T190000
+DTEND;TZID=America/New_York:20270106T220000
+DESCRIPTION:Wheeling Nailers at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/06/wild-wednesdays
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/12/trenton-ironhawks
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Trenton Ironhawks
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T220000
+DESCRIPTION:Reading Royals at Trenton Ironhawks
+LOCATION:CURE Insurance Arena\, Trenton\, New Jersey
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/12/trenton-ironhawks
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/15/tattoo-night
+DTSTAMP:20261112T171516Z
+SUMMARY:Tattoo Night
+DTSTART;TZID=America/New_York:20270115T190000
+DTEND;TZID=America/New_York:20270115T220000
+DESCRIPTION:Trois-Rivières Lions at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/15/tattoo-night
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/16/star-wars-night
+DTSTAMP:20261112T171516Z
+SUMMARY:Star Wars Night
+DTSTART;TZID=America/New_York:20270116T190000
+DTEND;TZID=America/New_York:20270116T220000
+DESCRIPTION:Trois-Rivières Lions at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/16/star-wars-night
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/18/mlk-day-senior-expo
+DTSTAMP:20261112T171516Z
+SUMMARY:MLK Day + Senior Expo
+DTSTART;TZID=America/New_York:20270118T130000
+DTEND;TZID=America/New_York:20270118T160000
+DESCRIPTION:Wheeling Nailers at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/18/mlk-day-senior-expo
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/21/rapid-city-rush
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Rapid City Rush
+DTSTART;TZID=America/Denver:20270121T190500
+DTEND;TZID=America/Denver:20270121T220500
+DESCRIPTION:Reading Royals at Rapid City Rush
+LOCATION:The Monument\, Rapid City\, South Dakota
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/21/rapid-city-rush
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/22/rapid-city-rush
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Rapid City Rush
+DTSTART;TZID=America/Denver:20270122T190500
+DTEND;TZID=America/Denver:20270122T220500
+DESCRIPTION:Reading Royals at Rapid City Rush
+LOCATION:The Monument\, Rapid City\, South Dakota
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/22/rapid-city-rush
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/23/rapid-city-rush
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Rapid City Rush
+DTSTART;TZID=America/Denver:20270123T190500
+DTEND;TZID=America/Denver:20270123T220500
+DESCRIPTION:Reading Royals at Rapid City Rush
+LOCATION:The Monument\, Rapid City\, South Dakota
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/23/rapid-city-rush
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/29/adirondack-thunder
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Adirondack Thunder
+DTSTART;TZID=America/New_York:20270129T190000
+DTEND;TZID=America/New_York:20270129T220000
+DESCRIPTION:Reading Royals at Adirondack Thunder
+LOCATION:Harding Mazzotti Arena\, Glens Falls\, New York
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/29/adirondack-thunder
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/30/adirondack-thunder
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Adirondack Thunder
+DTSTART;TZID=America/New_York:20270130T190000
+DTEND;TZID=America/New_York:20270130T220000
+DESCRIPTION:Reading Royals at Adirondack Thunder
+LOCATION:Harding Mazzotti Arena\, Glens Falls\, New York
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/30/adirondack-thunder
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/01/31/adirondack-thunder
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Adirondack Thunder
+DTSTART;TZID=America/New_York:20270131T150000
+DTEND;TZID=America/New_York:20270131T180000
+DESCRIPTION:Reading Royals at Adirondack Thunder
+LOCATION:Harding Mazzotti Arena\, Glens Falls\, New York
+URL;VALUE=URI:https://royalshockey.com/games/2027/01/31/adirondack-thunder
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/05/maine-mariners
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Maine Mariners
+DTSTART;TZID=America/New_York:20270205T183000
+DTEND;TZID=America/New_York:20270205T213000
+DESCRIPTION:Reading Royals at Maine Mariners
+LOCATION:Cross Insurance Arena\, Portland\, Maine
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/05/maine-mariners
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/06/worcester-railers
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Worcester Railers
+DTSTART;TZID=America/New_York:20270206T180500
+DTEND;TZID=America/New_York:20270206T210500
+DESCRIPTION:Reading Royals at Worcester Railers
+LOCATION:DCU Center\, Worcester\, Massachusetts
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/06/worcester-railers
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/09/education-day
+DTSTAMP:20261112T171516Z
+SUMMARY:Education Day
+DTSTART;TZID=America/New_York:20270209T103000
+DTEND;TZID=America/New_York:20270209T133000
+DESCRIPTION:Adirondack Thunder at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/09/education-day
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/12/pucks-and-pages-night
+DTSTAMP:20261112T171516Z
+SUMMARY:Pucks and Pages Night
+DTSTART;TZID=America/New_York:20270212T190000
+DTEND;TZID=America/New_York:20270212T220000
+DESCRIPTION:Maine Mariners at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/12/pucks-and-pages-nig
+ ht
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/13/pink-in-the-rink-women-in-spo
+ rts
+DTSTAMP:20261112T171516Z
+SUMMARY:Pink in the Rink + Women in Sports
+DTSTART;TZID=America/New_York:20270213T190000
+DTEND;TZID=America/New_York:20270213T220000
+DESCRIPTION:Maine Mariners at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/13/pink-in-the-rink-wo
+ men-in-sports
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/15/presidents-day
+DTSTAMP:20261112T171516Z
+SUMMARY:Presidents' Day
+DTSTART;TZID=America/New_York:20270215T130000
+DTEND;TZID=America/New_York:20270215T160000
+DESCRIPTION:Trenton Ironhawks at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/15/presidents-day
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/19/tech-and-trades-night
+DTSTAMP:20261112T171516Z
+SUMMARY:Tech and Trades Night
+DTSTART;TZID=America/New_York:20270219T190000
+DTEND;TZID=America/New_York:20270219T220000
+DESCRIPTION:Greensboro Gargoyles at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/19/tech-and-trades-nig
+ ht
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/20/kids-takeover
+DTSTAMP:20261112T171516Z
+SUMMARY:Kids Takeover
+DTSTART;TZID=America/New_York:20270220T190000
+DTEND;TZID=America/New_York:20270220T220000
+DESCRIPTION:Greensboro Gargoyles at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/20/kids-takeover
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/21/adirondack-thunder
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Adirondack Thunder
+DTSTART;TZID=America/New_York:20270221T150000
+DTEND;TZID=America/New_York:20270221T180000
+DESCRIPTION:Reading Royals at Adirondack Thunder
+LOCATION:Harding Mazzotti Arena\, Glens Falls\, New York
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/21/adirondack-thunder
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/25/greensboro-gargoyles
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Greensboro Gargoyles
+DTSTART;TZID=America/New_York:20270225T190000
+DTEND;TZID=America/New_York:20270225T220000
+DESCRIPTION:Reading Royals at Greensboro Gargoyles
+LOCATION:First Horizon Coliseum\, Greensboro\, North Carolina
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/25/greensboro-gargoyle
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/27/greensboro-gargoyles
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Greensboro Gargoyles
+DTSTART;TZID=America/New_York:20270227T190000
+DTEND;TZID=America/New_York:20270227T220000
+DESCRIPTION:Reading Royals at Greensboro Gargoyles
+LOCATION:First Horizon Coliseum\, Greensboro\, North Carolina
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/27/greensboro-gargoyle
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/02/28/greensboro-gargoyles
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Greensboro Gargoyles
+DTSTART;TZID=America/New_York:20270228T150000
+DTEND;TZID=America/New_York:20270228T180000
+DESCRIPTION:Reading Royals at Greensboro Gargoyles
+LOCATION:First Horizon Coliseum\, Greensboro\, North Carolina
+URL;VALUE=URI:https://royalshockey.com/games/2027/02/28/greensboro-gargoyle
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/03/03/wild-wednesdays
+DTSTAMP:20261112T171516Z
+SUMMARY:Wild Wednesdays
+DTSTART;TZID=America/New_York:20270303T190000
+DTEND;TZID=America/New_York:20270303T220000
+DESCRIPTION:Cincinnati Cyclones at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/03/03/wild-wednesdays
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/03/05/wrestling-night
+DTSTAMP:20261112T171516Z
+SUMMARY:Wrestling Night
+DTSTART;TZID=America/New_York:20270305T190000
+DTEND;TZID=America/New_York:20270305T220000
+DESCRIPTION:Cincinnati Cyclones at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/03/05/wrestling-night
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/03/06/superhero-night
+DTSTAMP:20261112T171516Z
+SUMMARY:Superhero Night
+DTSTART;TZID=America/New_York:20270306T190000
+DTEND;TZID=America/New_York:20270306T220000
+DESCRIPTION:Cincinnati Cyclones at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/03/06/superhero-night
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/03/10/wheeling-nailers
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Wheeling Nailers
+DTSTART;TZID=America/New_York:20270310T104500
+DTEND;TZID=America/New_York:20270310T134500
+DESCRIPTION:Reading Royals at Wheeling Nailers
+LOCATION:WesBanco Arena\, Wheeling\, West Virginia
+URL;VALUE=URI:https://royalshockey.com/games/2027/03/10/wheeling-nailers
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/03/12/hockey-game-musical
+DTSTAMP:20261112T171516Z
+SUMMARY:Hockey Game Musical
+DTSTART;TZID=America/New_York:20270312T190000
+DTEND;TZID=America/New_York:20270312T220000
+DESCRIPTION:Trenton Ironhawks at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/03/12/hockey-game-musical
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/03/13/st-hat-tricks-day
+DTSTAMP:20261112T171516Z
+SUMMARY:St. Hat-Tricks Day
+DTSTART;TZID=America/New_York:20270313T190000
+DTEND;TZID=America/New_York:20270313T220000
+DESCRIPTION:Maine Mariners at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/03/13/st-hat-tricks-day
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/03/19/knights-of-the-ice-table
+DTSTAMP:20261112T171516Z
+SUMMARY:Knights Of The Ice Table
+DTSTART;TZID=America/New_York:20270319T190000
+DTEND;TZID=America/New_York:20270319T220000
+DESCRIPTION:Wheeling Nailers at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/03/19/knights-of-the-ice-
+ table
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/03/20/flyers-affiliation-night
+DTSTAMP:20261112T171516Z
+SUMMARY:Flyers Affiliation Night
+DTSTART;TZID=America/New_York:20270320T190000
+DTEND;TZID=America/New_York:20270320T220000
+DESCRIPTION:Wheeling Nailers at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/03/20/flyers-affiliation-
+ night
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/03/21/kenpuppy-derby-dog-toy-toss
+DTSTAMP:20261112T171516Z
+SUMMARY:Kenpuppy Derby + Dog Toy Toss
+DTSTART;TZID=America/New_York:20270321T150000
+DTEND;TZID=America/New_York:20270321T180000
+DESCRIPTION:Wheeling Nailers at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/03/21/kenpuppy-derby-dog-
+ toy-toss
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/03/26/mental-health-recovery-night
+DTSTAMP:20261112T171516Z
+SUMMARY:Mental Health + Recovery Night
+DTSTART;TZID=America/New_York:20270326T190000
+DTEND;TZID=America/New_York:20270326T220000
+DESCRIPTION:Adirondack Thunder at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/03/26/mental-health-recov
+ ery-night
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/03/27/trading-card-expo
+DTSTAMP:20261112T171516Z
+SUMMARY:Trading Card Expo
+DTSTART;TZID=America/New_York:20270327T190000
+DTEND;TZID=America/New_York:20270327T220000
+DESCRIPTION:Adirondack Thunder at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/03/27/trading-card-expo
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/04/02/trois-rivieres-lions
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Trois-Rivières Lions
+DTSTART;TZID=America/Toronto:20270402T190000
+DTEND;TZID=America/Toronto:20270402T220000
+DESCRIPTION:Reading Royals at Trois-Rivières Lions
+LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
+URL;VALUE=URI:https://royalshockey.com/games/2027/04/02/trois-rivieres-lion
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/04/03/trois-rivieres-lions
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Trois-Rivières Lions
+DTSTART;TZID=America/Toronto:20270403T150000
+DTEND;TZID=America/Toronto:20270403T180000
+DESCRIPTION:Reading Royals at Trois-Rivières Lions
+LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
+URL;VALUE=URI:https://royalshockey.com/games/2027/04/03/trois-rivieres-lion
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/04/04/trois-rivieres-lions
+DTSTAMP:20261112T171516Z
+SUMMARY:Reading Royals @ Trois-Rivières Lions
+DTSTART;TZID=America/Toronto:20270404T130000
+DTEND;TZID=America/Toronto:20270404T160000
+DESCRIPTION:Reading Royals at Trois-Rivières Lions
+LOCATION:Colisée Vidéotron\, Trois-Rivières\, Quebec
+URL;VALUE=URI:https://royalshockey.com/games/2027/04/04/trois-rivieres-lion
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/04/08/slapshots-birthday
+DTSTAMP:20261112T171516Z
+SUMMARY:Slapshot's Birthday
+DTSTART;TZID=America/New_York:20270408T190000
+DTEND;TZID=America/New_York:20270408T220000
+DESCRIPTION:Norfolk Admirals at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/04/08/slapshots-birthday
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/04/09/wall-of-honor
+DTSTAMP:20261112T171516Z
+SUMMARY:Wall of Honor
+DTSTART;TZID=America/New_York:20270409T190000
+DTEND;TZID=America/New_York:20270409T220000
+DESCRIPTION:Norfolk Admirals at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/04/09/wall-of-honor
+END:VEVENT
+BEGIN:VEVENT
+UID:https://royalshockey.com/games/2027/04/11/autism-acceptance-fandemonium
+ -night
+DTSTAMP:20261112T171516Z
+SUMMARY:Autism Acceptance + Fandemonium Night
+DTSTART;TZID=America/New_York:20270411T150000
+DTEND;TZID=America/New_York:20270411T180000
+DESCRIPTION:Norfolk Admirals at Reading Royals
+LOCATION:Santander Arena\, Reading\, Pennsylvania
+URL;VALUE=URI:https://royalshockey.com/games/2027/04/11/autism-acceptance-f
+ andemonium-night
+END:VEVENT
+END:VCALENDAR

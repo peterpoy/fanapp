@@ -1,0 +1,626 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lehigh Valley Phantoms//Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lehigh Valley Phantoms Schedule
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Lehigh Valley Phantoms Hockey Schedule
+BEGIN:VEVENT
+UID:phantoms-game-1029246@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261105T000000Z
+DTEND:20261105T030000Z
+SUMMARY:Phantoms @ Rocket
+LOCATION:Place Bell\, Laval\, QC
+DESCRIPTION:Away Game\n\nFinal Score: Phantoms 5 - Rocket 4
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029251@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261107T000000Z
+DTEND:20261107T030000Z
+SUMMARY:Phantoms @ Senators
+LOCATION:CIBC Place\, Belleville\, ON
+DESCRIPTION:Away Game\n\nFinal Score: Phantoms 1 - Senators 3
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029269@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261108T000000Z
+DTEND:20261108T030000Z
+SUMMARY:Phantoms @ Hammers
+LOCATION:TD Coliseum\, Hamilton\, ON
+DESCRIPTION:Away Game\n\nFinal Score: Phantoms 3 - Hammers 6
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029302@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261114T000500Z
+DTEND:20261114T030500Z
+SUMMARY:Phantoms vs Hammers
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048EC020FE
+URL:https://www.ticketmaster.com/event/300065048EC020FE
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029312@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261115T000500Z
+DTEND:20261115T030500Z
+SUMMARY:Phantoms vs Checkers
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048EC42109
+URL:https://www.ticketmaster.com/event/300065048EC42109
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029328@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261115T230500Z
+DTEND:20261116T020500Z
+SUMMARY:Phantoms @ Penguins
+LOCATION:Mohegan Arena at Casey Plaza\, Wilkes-Barre\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+URL:https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029346@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261121T000500Z
+DTEND:20261121T030500Z
+SUMMARY:Phantoms vs Penguins
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048EC8210B
+URL:https://www.ticketmaster.com/event/300065048EC8210B
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029357@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261122T000500Z
+DTEND:20261122T030500Z
+SUMMARY:Phantoms vs Bears
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048ECC2110
+URL:https://www.ticketmaster.com/event/300065048ECC2110
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029380@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261126T000500Z
+DTEND:20261126T030500Z
+SUMMARY:Phantoms vs Bruins
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048ED02115
+URL:https://www.ticketmaster.com/event/300065048ED02115
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029404@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261129T000500Z
+DTEND:20261129T030500Z
+SUMMARY:Phantoms vs Bruins
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048ED4211C
+URL:https://www.ticketmaster.com/event/300065048ED4211C
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029418@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261129T200500Z
+DTEND:20261129T230500Z
+SUMMARY:Phantoms @ Penguins
+LOCATION:Mohegan Arena at Casey Plaza\, Wilkes-Barre\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+URL:https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029428@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261203T000500Z
+DTEND:20261203T030500Z
+SUMMARY:Phantoms vs Bears
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048ED82121
+URL:https://www.ticketmaster.com/event/300065048ED82121
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029444@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261206T000000Z
+DTEND:20261206T030000Z
+SUMMARY:Phantoms @ Bears
+LOCATION:Giant Center\, Hershey\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/event/020064EFB67DEB3D?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+URL:https://www.ticketmaster.com/event/020064EFB67DEB3D?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029458@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261206T200500Z
+DTEND:20261206T230500Z
+SUMMARY:Phantoms vs Bears
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048EDC2124
+URL:https://www.ticketmaster.com/event/300065048EDC2124
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029478@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261212T000500Z
+DTEND:20261212T030500Z
+SUMMARY:Phantoms vs Bears
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048EE02127
+URL:https://www.ticketmaster.com/event/300065048EE02127
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029491@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261213T000500Z
+DTEND:20261213T030500Z
+SUMMARY:Phantoms vs Checkers
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048EE52129
+URL:https://www.ticketmaster.com/event/300065048EE52129
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029505@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261213T220500Z
+DTEND:20261214T010500Z
+SUMMARY:Phantoms @ Penguins
+LOCATION:Mohegan Arena at Casey Plaza\, Wilkes-Barre\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+URL:https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029526@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261219T010000Z
+DTEND:20261219T040000Z
+SUMMARY:Phantoms @ Wild
+LOCATION:Casey’s Center\, Des Moines\, IA
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029539@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261220T000000Z
+DTEND:20261220T030000Z
+SUMMARY:Phantoms @ Wild
+LOCATION:Casey’s Center\, Des Moines\, IA
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029557@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261227T200500Z
+DTEND:20261227T230500Z
+SUMMARY:Phantoms vs Wolf Pack
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048EE9212E
+URL:https://www.ticketmaster.com/event/300065048EE9212E
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029571@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20261230T000500Z
+DTEND:20261230T030500Z
+SUMMARY:Phantoms vs Americans
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048EED2130
+URL:https://www.ticketmaster.com/event/300065048EED2130
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029592@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270102T000500Z
+DTEND:20270102T030500Z
+SUMMARY:Phantoms @ Penguins
+LOCATION:Mohegan Arena at Casey Plaza\, Wilkes-Barre\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+URL:https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029604@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270102T220000Z
+DTEND:20270103T010000Z
+SUMMARY:Phantoms @ Crunch
+LOCATION:Upstate Medical University Arena\, Syracuse\, NY
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029629@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270109T000000Z
+DTEND:20270109T030000Z
+SUMMARY:Phantoms @ Checkers
+LOCATION:Bojangles Coliseum\, Charlotte\, NC
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029639@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270109T230000Z
+DTEND:20270110T020000Z
+SUMMARY:Phantoms @ Checkers
+LOCATION:Bojangles Coliseum\, Charlotte\, NC
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029659@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270113T000000Z
+DTEND:20270113T030000Z
+SUMMARY:Phantoms @ Bears
+LOCATION:Giant Center\, Hershey\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/event/020064EFB5F8E9E6?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+URL:https://www.ticketmaster.com/event/020064EFB5F8E9E6?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029673@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270116T000000Z
+DTEND:20270116T030000Z
+SUMMARY:Phantoms @ Bears
+LOCATION:Giant Center\, Hershey\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/event/020064EFB5FDE9FD?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+URL:https://www.ticketmaster.com/event/020064EFB5FDE9FD?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029687@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270117T000500Z
+DTEND:20270117T030500Z
+SUMMARY:Phantoms vs Comets
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E54207D
+URL:https://www.ticketmaster.com/event/300065048E54207D
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029698@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270117T200500Z
+DTEND:20270117T230500Z
+SUMMARY:Phantoms vs Bears
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E592083
+URL:https://www.ticketmaster.com/event/300065048E592083
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029720@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270123T000000Z
+DTEND:20270123T030000Z
+SUMMARY:Phantoms @ Wolf Pack
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029736@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270123T230500Z
+DTEND:20270124T020500Z
+SUMMARY:Phantoms @ Thunderbirds
+LOCATION:MassMutual Center\, Springfield\, MA
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029743@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270124T220500Z
+DTEND:20270125T010500Z
+SUMMARY:Phantoms @ Bruins
+LOCATION:Amica Mutual Pavilion\, Providence\, RI
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029753@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270128T000500Z
+DTEND:20270128T030500Z
+SUMMARY:Phantoms vs Penguins
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E5D2086
+URL:https://www.ticketmaster.com/event/300065048E5D2086
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029765@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270130T000000Z
+DTEND:20270130T030000Z
+SUMMARY:Phantoms @ Crunch
+LOCATION:Upstate Medical University Arena\, Syracuse\, NY
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029773@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270131T000500Z
+DTEND:20270131T030500Z
+SUMMARY:Phantoms vs Crunch
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E62208C
+URL:https://www.ticketmaster.com/event/300065048E62208C
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029793@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270204T000000Z
+DTEND:20270204T030000Z
+SUMMARY:Phantoms @ Bears
+LOCATION:Giant Center\, Hershey\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/event/020064EFB606EA14?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+URL:https://www.ticketmaster.com/event/020064EFB606EA14?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029808@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270206T000500Z
+DTEND:20270206T030500Z
+SUMMARY:Phantoms vs Thunderbirds
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E662091
+URL:https://www.ticketmaster.com/event/300065048E662091
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029823@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270207T000500Z
+DTEND:20270207T030500Z
+SUMMARY:Phantoms vs Penguins
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E6A2095
+URL:https://www.ticketmaster.com/event/300065048E6A2095
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029834@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270213T000500Z
+DTEND:20270213T030500Z
+SUMMARY:Phantoms vs Checkers
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E6E2099
+URL:https://www.ticketmaster.com/event/300065048E6E2099
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029866@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270218T000500Z
+DTEND:20270218T030500Z
+SUMMARY:Phantoms vs Penguins
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E73209E
+URL:https://www.ticketmaster.com/event/300065048E73209E
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029891@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270221T000500Z
+DTEND:20270221T030500Z
+SUMMARY:Phantoms vs Wild
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E7720A1
+URL:https://www.ticketmaster.com/event/300065048E7720A1
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029900@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270221T200500Z
+DTEND:20270221T230500Z
+SUMMARY:Phantoms vs Wild
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E7B20A7
+URL:https://www.ticketmaster.com/event/300065048E7B20A7
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029915@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270224T233000Z
+DTEND:20270225T023000Z
+SUMMARY:Phantoms @ Wolf Pack
+LOCATION:PeoplesBank Arena\, Hartford\, CT
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029929@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270227T000500Z
+DTEND:20270227T030500Z
+SUMMARY:Phantoms @ Bruins
+LOCATION:Amica Mutual Pavilion\, Providence\, RI
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029951@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270228T200500Z
+DTEND:20270228T230500Z
+SUMMARY:Phantoms @ Bruins
+LOCATION:Amica Mutual Pavilion\, Providence\, RI
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029975@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270306T000000Z
+DTEND:20270306T030000Z
+SUMMARY:Phantoms @ Comets
+LOCATION:NBT Bank Arena\, Utica\, NY
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029988@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270306T230500Z
+DTEND:20270307T020500Z
+SUMMARY:Phantoms @ Penguins
+LOCATION:Mohegan Arena at Casey Plaza\, Wilkes-Barre\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+URL:https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1029991@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270307T220500Z
+DTEND:20270308T010500Z
+SUMMARY:Phantoms vs Wolf Pack
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E7F20B3
+URL:https://www.ticketmaster.com/event/300065048E7F20B3
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030013@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270313T000500Z
+DTEND:20270313T030500Z
+SUMMARY:Phantoms vs Rocket
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E8320BA
+URL:https://www.ticketmaster.com/event/300065048E8320BA
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030025@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270314T000500Z
+DTEND:20270314T030500Z
+SUMMARY:Phantoms vs Bears
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E8720BE
+URL:https://www.ticketmaster.com/event/300065048E8720BE
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030073@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270320T230500Z
+DTEND:20270321T020500Z
+SUMMARY:Phantoms vs Thunderbirds
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E8B20C1
+URL:https://www.ticketmaster.com/event/300065048E8B20C1
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030082@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270321T190500Z
+DTEND:20270321T220500Z
+SUMMARY:Phantoms vs Thunderbirds
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E8F20C5
+URL:https://www.ticketmaster.com/event/300065048E8F20C5
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030096@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270324T230500Z
+DTEND:20270325T020500Z
+SUMMARY:Phantoms vs Penguins
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E9320C9
+URL:https://www.ticketmaster.com/event/300065048E9320C9
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030106@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270326T230000Z
+DTEND:20270327T020000Z
+SUMMARY:Phantoms @ Monsters
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030120@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270327T230000Z
+DTEND:20270328T020000Z
+SUMMARY:Phantoms @ Monsters
+LOCATION:Rocket Arena\, Cleveland\, OH
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030131@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270330T230000Z
+DTEND:20270331T020000Z
+SUMMARY:Phantoms @ Checkers
+LOCATION:Bojangles Coliseum\, Charlotte\, NC
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030133@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270331T230000Z
+DTEND:20270401T020000Z
+SUMMARY:Phantoms @ Checkers
+LOCATION:Bojangles Coliseum\, Charlotte\, NC
+DESCRIPTION:Away Game\n\nGet Tickets: https://theahl.com/tickets
+URL:https://theahl.com/tickets
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030167@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270403T220500Z
+DTEND:20270404T010500Z
+SUMMARY:Phantoms @ Penguins
+LOCATION:Mohegan Arena at Casey Plaza\, Wilkes-Barre\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+URL:https://www.ticketmaster.com/wilkes-barre-scranton-penguins-tickets/artist/806776
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030171@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270404T190500Z
+DTEND:20270404T220500Z
+SUMMARY:Phantoms vs Penguins
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E9720D0
+URL:https://www.ticketmaster.com/event/300065048E9720D0
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030181@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270407T230000Z
+DTEND:20270408T020000Z
+SUMMARY:Phantoms @ Bears
+LOCATION:Giant Center\, Hershey\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/event/020064EFB634EA87?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+URL:https://www.ticketmaster.com/event/020064EFB634EA87?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030195@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270409T230500Z
+DTEND:20270410T020500Z
+SUMMARY:Phantoms vs Checkers
+LOCATION:PPL Center\, Allentown\, PA
+DESCRIPTION:Home Game\n\nGet Tickets: https://www.ticketmaster.com/event/300065048E9B20D4
+URL:https://www.ticketmaster.com/event/300065048E9B20D4
+END:VEVENT
+BEGIN:VEVENT
+UID:phantoms-game-1030207@www.phantomshockey.com
+DTSTAMP:20261112T171426Z
+DTSTART:20270410T220000Z
+DTEND:20270411T010000Z
+SUMMARY:Phantoms @ Bears
+LOCATION:Giant Center\, Hershey\, PA
+DESCRIPTION:Away Game\n\nGet Tickets: https://www.ticketmaster.com/event/020064EFB638EA8E?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+URL:https://www.ticketmaster.com/event/020064EFB638EA8E?CAMEFROM=CFC_GIANTCENTER_WEB_HOCKEYTECH_2026-27BEARS
+END:VEVENT
+END:VCALENDAR
